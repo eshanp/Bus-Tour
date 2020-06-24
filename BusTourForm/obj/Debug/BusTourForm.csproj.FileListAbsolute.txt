@@ -1,0 +1,10 @@
+E:\BAP ASS\BusTourForm\BusTourForm\bin\Debug\BusTourForm.exe.config
+E:\BAP ASS\BusTourForm\BusTourForm\bin\Debug\BusTourForm.exe
+E:\BAP ASS\BusTourForm\BusTourForm\bin\Debug\BusTourForm.pdb
+E:\BAP ASS\BusTourForm\BusTourForm\obj\Debug\BusTourForm.csprojAssemblyReference.cache
+E:\BAP ASS\BusTourForm\BusTourForm\obj\Debug\BusTourForm.Form1.resources
+E:\BAP ASS\BusTourForm\BusTourForm\obj\Debug\BusTourForm.Properties.Resources.resources
+E:\BAP ASS\BusTourForm\BusTourForm\obj\Debug\BusTourForm.csproj.GenerateResource.cache
+E:\BAP ASS\BusTourForm\BusTourForm\obj\Debug\BusTourForm.csproj.CoreCompileInputs.cache
+E:\BAP ASS\BusTourForm\BusTourForm\obj\Debug\BusTourForm.exe
+E:\BAP ASS\BusTourForm\BusTourForm\obj\Debug\BusTourForm.pdb
